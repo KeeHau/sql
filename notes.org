@@ -1,0 +1,23 @@
+* A relational database system --> many databases
+* A database --> one or more tables
+* A table --> rows and columns
+
+** Example:
+*** Database name: StudentDB
+*** Table1 : class101 
+*** Table2 : class102...
+
+
+* 4 layers
+** Application layer - Http/ Smtp
+** Transport Layer - TCP/IP
+** IP Layer - IP address
+** Network Layer- wifi/ LAN Ethernet
+
+** Example: 
+*** You send puzzles to your friend tho poslaju
+**** First, Application layer- means u go pos laju (visit HTTP:/www.google.com)
+**** Then, pos laju will assembles the puzzles into 4 pieces (transport layers into packets)
+**** Then, delivery boy will send to your friend address (send to IP Address)
+**** Then, finally the friend will receive the stuff by opening the door (Connect to wifi/ LAN )
+
